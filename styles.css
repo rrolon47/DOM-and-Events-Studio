@@ -3,4 +3,12 @@
     display: inline-block;
     height: 80%;
     width: 40%;
+    position: relative;
 }
+#shuttleBackground img {
+    position: absolute;
+    right: 0; 
+    bottom: 0;
+}
+
+  
